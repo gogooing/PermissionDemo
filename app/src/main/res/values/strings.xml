@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PermissionDemo-master</string>
+    <string name="permission_shoudong">去收到授权</string>
+    <string name="permission_cancel">取消</string>
+    <string name="permission_title">需要訪問“%s”許可權，請到“應用資訊 -> 許可權”中授予！</string>
+    <string name="permission_main">主要</string>
+</resources>
